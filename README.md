@@ -1,3 +1,21 @@
+> [!NOTE]
+> **This is an unofficial mirror of
+> [rsasaki0109/lidar_localization_ros2](https://github.com/rsasaki0109/lidar_localization_ros2).**
+> It is maintained by technoroad to keep
+> [khepri_slams](https://github.com/technoroad/khepri_slams) buildable.
+> It is not affiliated with or endorsed by the upstream author.
+>
+> - Snapshot taken on 2026-11-13. Not synced with upstream.
+> - khepri_slams uses the tag `technoroad/khepri-pin`
+>   (`7204195a10ad3382c7833753a3d4bf83dec4c1c9`).
+> - Upstream pull request refs are preserved under `refs/upstream-pull/*`.
+> - Please report bugs and send contributions to the upstream repository.
+> - License: BSD 2-Clause, unchanged from upstream (see `LICENSE`).
+>
+> 本リポジトリは rsasaki0109/lidar_localization_ros2 の非公式ミラーです。
+> khepri_slams のビルドを維持するために technoroad が保管しています。
+> 不具合報告や貢献は本家へお願いします。
+
 # lidar_localization_ros2
 A ROS2 package of 3D LIDAR-based Localization.
 
